@@ -1,5 +1,5 @@
 ### What's up guys 👾
-[![Spotify](https://peapablo.vercel.app/api/spotify)](https://open.spotify.com/user/31zpkvwvhitz6exyisjc2ztxwpam)
+
 
 
 <!--
