@@ -1,5 +1,8 @@
 ### What's up guys 👾
 
+  ## Spotify Playing
+  [![Spotify](https://peapablo-peapablo.vercel.app/api/spotify)](https://open.spotify.com/user/31zpkvwvhitz6exyisjc2ztxwpam)
+
 
 
 <!--
