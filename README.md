@@ -3,7 +3,7 @@
 
 <h3 align = "center">Puvadet Niyomdaychar. Third Year Computer Science Student at SIT, KMUTT.</h3>
 
-💡I'm learning Web App developer
+💡I have a high passion in CyberSecurity.
 
 ⌨ I'm interest about Coding, Music , Games and Football
 
