@@ -22,8 +22,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoomaw10&label=Profile%20views&color=0e75b6&style=flat" alt="phoomaw10" /> </p>
 
-!Anurag's GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoomaw10&layout=compact)](https://github.com/phoomaw10/github-readme-stats)
 
 
