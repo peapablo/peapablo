@@ -1,7 +1,7 @@
 # What's up guys 👾
 <h1 align = "center">Welcome to Peapablo's GitHub </h1>
 
-<h3 align = "center">Puvadet Niyomdaychar. Third Year Computer Science Student at SIT, KMUTT.</h3>
+<h3 align = "center"> I'm Puvadet Niyomdaychar (Pea). Third Year Computer Science Student at SIT, KMUTT.</h3>
 
 💡I have a high passion in CyberSecurity.
 
