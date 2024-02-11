@@ -21,7 +21,7 @@
 
 <h4>Utities</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,pr,flutter,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,flutter,vscode,discord)](https://skillicons.dev)
 
 
 
