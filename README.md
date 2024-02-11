@@ -1,5 +1,5 @@
 # What's up guys 👾
-<h1 align = "center">Welcome to Peapablo's Git Hub 🏎</h1>
+<h1 align = "center">Welcome to Peapablo's GitHub </h1>
 
 <h3 align = "center">Puvadet Niyomdaychar. Third Year Computer Science Student at SIT, KMUTT.</h3>
 
