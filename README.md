@@ -1,11 +1,15 @@
 # What's up guys 👾
-<h1 align = "center">Welcome to Peapablo's GitHub </h1>
+<h1 align = "center">Welcome to Peapablo's GitHub 🥜 </h1>
 
 <h3 align = "center"> I'm Puvadet Niyomdaychar (Pea). Third Year Computer Science Student at SIT, KMUTT.</h3>
 
-💡I have a high passion in CyberSecurity.
+💡I have a high passion in CyberSecurity and Threat Analysis.
 
 ⌨ I'm interest about Coding, Music , Games and Football
+
+🎸 I'm really like to play guitar also
+
+⚽️ I'm also be a Goalkeeper for my football team
 
 ### - Spotify✨
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zpkvwvhitz6exyisjc2ztxwpam)
