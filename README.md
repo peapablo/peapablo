@@ -11,7 +11,7 @@
 
 ⚽️ I'm also be a Goalkeeper for my football team
 
-### - Spotify✨
+### - Spotify Songs
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zpkvwvhitz6exyisjc2ztxwpam)
 
 <h2>My Skill:</h2>
