@@ -5,6 +5,8 @@
 
 💡I have a high passion in CyberSecurity and Threat Analysis.
 
+💻 I have experienced in frontend developer for web and mobile application
+
 ⌨ I'm interest about Coding, Music , Games and Football
 
 🎸 I'm really like to play guitar also
