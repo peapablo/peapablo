@@ -1,8 +1,7 @@
 # What's up guys 👾
 <h1 align = "center">Welcome to Peapablo's GitHub 🥜 </h1>
 
-<h4 align = "center"> I'm Puvadet Niyomdaychar (Pea). Fourth Year Computer Science Student at School of Information and Technology, 
-  King Mongkut's University of Technology Thonburi.</h4>
+<h3 align = "center"> I'm Puvadet Niyomdaychar (Pea). Fourth Year Computer Science Student at SIT, KMUTT.</h3>
 
 💡 I have a high passion in CyberSecurity and Threat Analysis.
 
